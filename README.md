@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://www.frontendmentor.io/profile/NojoudCodes)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://nojoudcodes.github.io/Frontend-mentor_news-homepage/)
 
 ## My process
 
